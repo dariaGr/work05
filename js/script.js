@@ -3,19 +3,19 @@ const entities = [
 		city: "Rostov-on-Don<br />LCD admiral",
 		square: "81 m2",
 		time: "3.5 months",
-		img: "./img/01.jpg",
+		img: "img/01.jpg",
 	},
 	{
 		city: "Sochi<br />Thieves",
 		square: "105 m2",
 		time: "4 months",
-		img: "./img/02.jpg",
+		img: "img/02.jpg",
 	},
 	{
 		city: "Rostov-on-Don<br />Patriotic",
 		square: "93 m2",
 		time: "3 months",
-		img: "./img/03.jpg",
+		img: "img/03.jpg",
 	},
 ];
 const img = document.querySelector(".projects__image");
